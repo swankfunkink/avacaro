@@ -1,0 +1,30 @@
+* {
+    background-color: black;    
+}
+
+div {
+    color: white;
+    margin-left: 600px;
+    width: 50%;
+    margin-top: 10%;
+
+
+}
+
+#avocado {
+    border: solid 5px white;
+    
+}
+
+#easy {
+    text-align: center;
+    margin-right: 205px;
+    
+   
+}
+
+#para {
+    text-align: center;
+    margin-right: 205px;
+}
+
